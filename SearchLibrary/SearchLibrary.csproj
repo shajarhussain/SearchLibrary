@@ -10,4 +10,8 @@
     <PackageReference Include="ReportGenerator" Version="5.5.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".github\workflows\ci.yml" />
+  </ItemGroup>
+
 </Project>
